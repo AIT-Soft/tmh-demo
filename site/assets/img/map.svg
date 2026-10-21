@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420" role="img" aria-labelledby="map-title map-desc">
+  <title id="map-title">Bản đồ minh họa vị trí phòng khám (demo)</title>
+  <desc id="map-desc">Sơ đồ tự vẽ, không phải bản đồ thật: phòng khám nằm gần ngã tư giữa Đường Mẫu và Đường Demo, cạnh công viên Demo và phía trên Sông Mẫu.</desc>
+  <rect width="640" height="420" fill="#E9F1EC"/>
+  <path d="M0 360 C120 320 220 400 340 366 C460 330 540 390 640 352 V420 H0 Z" fill="#BFD9EA"/>
+  <rect x="470" y="140" width="150" height="130" rx="10" fill="#CFE5D0"/>
+  <g fill="#8CBF98"><circle cx="500" cy="170" r="12"/><circle cx="540" cy="200" r="14"/><circle cx="585" cy="168" r="12"/><circle cx="505" cy="240" r="13"/><circle cx="580" cy="242" r="12"/></g>
+  <g fill="#D3E1E0"><rect x="20" y="145" width="160" height="125" rx="6"/><rect x="220" y="145" width="200" height="125" rx="6"/><rect x="20" y="20" width="160" height="82" rx="6"/><rect x="220" y="20" width="200" height="82" rx="6"/><rect x="470" y="20" width="150" height="82" rx="6"/></g>
+  <g fill="#FFFFFF" stroke="#C5D5D5" stroke-width="2"><rect x="0" y="107" width="640" height="26"/><rect x="187" y="0" width="26" height="320"/><rect x="427" y="0" width="26" height="320"/></g>
+  <rect x="0" y="280" width="640" height="26" fill="#FFFFFF" stroke="#C5D5D5" stroke-width="2"/>
+  <g font-family="system-ui, 'Segoe UI', Arial, sans-serif" font-size="14" fill="#1F2D3A">
+    <text x="30" y="125">Đường Mẫu</text>
+    <text x="30" y="299">Đường Thử</text>
+    <text transform="translate(206 60) rotate(-90)" text-anchor="middle">Đường Demo</text>
+    <text transform="translate(446 60) rotate(-90)" text-anchor="middle">Đường Minh Họa</text>
+    <text x="478" y="158" font-size="13" font-weight="700">Công viên Demo</text>
+    <text x="40" y="395" font-weight="700">Sông Mẫu</text>
+  </g>
+  <rect x="266" y="176" width="100" height="62" rx="6" fill="#0B6E73"/>
+  <rect x="284" y="196" width="22" height="42" fill="#FFFFFF" opacity="0.85"/>
+  <rect x="320" y="196" width="30" height="20" rx="3" fill="#CDE8E6"/>
+  <path d="M316 172 C316 152 292 148 292 130 C292 116 303 106 316 106 C329 106 340 116 340 130 C340 148 316 152 316 172 Z" transform="translate(0 -4)" fill="#9A3F18" stroke="#FFFFFF" stroke-width="3"/>
+  <path d="M316 114 v16 M308 122 h16" transform="translate(0 -4)" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"/>
+  <rect x="332" y="106" width="150" height="26" rx="13" fill="#FFFFFF" stroke="#0B6E73" stroke-width="2"/>
+  <text x="407" y="124" text-anchor="middle" font-family="system-ui, 'Segoe UI', Arial, sans-serif" font-size="13" font-weight="700" fill="#12333A">Phòng khám (minh họa)</text>
+  <g transform="translate(590 52)"><circle r="22" fill="#FFFFFF" stroke="#C5D5D5" stroke-width="2"/><path d="M0 -14 L7 8 L0 3 L-7 8 Z" fill="#0B6E73"/></g>
+  <rect x="20" y="318" width="190" height="30" rx="6" fill="#FFFFFF" opacity="0.92"/>
+  <text x="30" y="338" font-family="system-ui, 'Segoe UI', Arial, sans-serif" font-size="13" fill="#1F2D3A">Sơ đồ minh họa, không theo tỉ lệ</text>
+</svg>
